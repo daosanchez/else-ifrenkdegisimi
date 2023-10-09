@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\bin\Debug\form23.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\bin\Debug\form23.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\bin\Debug\form23.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\obj\Debug\form23.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\obj\Debug\form23.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\obj\Debug\form23.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\obj\Debug\form23.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\obj\Debug\form23.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\obj\Debug\form23.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\obj\Debug\form23.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form23\form23\obj\Debug\form23.pdb
